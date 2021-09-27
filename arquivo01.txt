@@ -1,3 +1,7 @@
 linha 01
+<<<<<<< HEAD
 linha 0 correcao
+=======
+linha 0 feature
+>>>>>>> feature
 linha 03
